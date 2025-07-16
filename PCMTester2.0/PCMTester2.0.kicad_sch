@@ -28998,7 +28998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 497.84 114.3 0)
 			(effects
 				(font
@@ -29246,7 +29246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 354.33 215.9 0)
 			(effects
 				(font
@@ -29494,7 +29494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 220.98 0)
 			(effects
 				(font
@@ -29742,7 +29742,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 208.28 0)
 			(effects
 				(font
@@ -29989,7 +29989,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC2012X135N"
+		(property "Footprint" "PCMTester2.0 Footprints:22uF_Capacitor"
 			(at 44.45 83.82 0)
 			(effects
 				(font
@@ -30307,7 +30307,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 238.76 0)
 			(effects
 				(font
@@ -30555,7 +30555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 236.22 0)
 			(effects
 				(font
@@ -30803,7 +30803,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 497.84 104.14 0)
 			(effects
 				(font
@@ -31051,7 +31051,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 200.66 0)
 			(effects
 				(font
@@ -31299,7 +31299,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 496.57 152.4 0)
 			(effects
 				(font
@@ -31547,7 +31547,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 497.84 127 0)
 			(effects
 				(font
@@ -31795,7 +31795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 228.6 0)
 			(effects
 				(font
@@ -32105,7 +32105,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 497.84 121.92 0)
 			(effects
 				(font
@@ -32355,7 +32355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CONN HEADER 1POS .100_"
+		(property "Footprint" "PCMTester2.0 Footprints:SAMTEC_TSW-101-07-G-S (pin)"
 			(at 162.56 300.99 0)
 			(effects
 				(font
@@ -32681,7 +32681,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RESC1608X55X30LL15T15"
+		(property "Footprint" "PCMTester2.0 Footprints:RESC1608X50N"
 			(at 116.84 34.29 0)
 			(effects
 				(font
@@ -33098,7 +33098,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC2012X135N"
+		(property "Footprint" "PCMTester2.0 Footprints:22uF_Capacitor"
 			(at 55.88 265.43 0)
 			(effects
 				(font
@@ -33416,7 +33416,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 354.33 213.36 0)
 			(effects
 				(font
@@ -33664,7 +33664,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 497.84 111.76 0)
 			(effects
 				(font
@@ -33912,7 +33912,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 496.57 144.78 0)
 			(effects
 				(font
@@ -34159,7 +34159,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC2012X135N"
+		(property "Footprint" "PCMTester2.0 Footprints:22uF_Capacitor"
 			(at 48.26 111.76 0)
 			(effects
 				(font
@@ -34477,7 +34477,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 497.84 119.38 0)
 			(effects
 				(font
@@ -34726,7 +34726,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "PHOENIX_1988105 - duplicate"
+		(property "Footprint" "PCMTester2.0 Footprints:PWR_CORE1_footprint"
 			(at 39.37 119.38 0)
 			(effects
 				(font
@@ -34796,7 +34796,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CONN HEADER 1POS .100_"
+		(property "Footprint" "PCMTester2.0 Footprints:SAMTEC_TSW-101-07-G-S (pin)"
 			(at 356.87 114.3 0)
 			(effects
 				(font
@@ -35121,7 +35121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 213.36 0)
 			(effects
 				(font
@@ -35433,7 +35433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CONN HEADER 1POS .100_"
+		(property "Footprint" "PCMTester2.0 Footprints:SAMTEC_TSW-101-07-G-S (pin)"
 			(at 375.92 177.8 0)
 			(effects
 				(font
@@ -35758,7 +35758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 198.12 0)
 			(effects
 				(font
@@ -36068,7 +36068,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 497.84 129.54 0)
 			(effects
 				(font
@@ -36315,7 +36315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC2012X135N"
+		(property "Footprint" "PCMTester2.0 Footprints:22uF_Capacitor"
 			(at 35.56 83.82 0)
 			(effects
 				(font
@@ -36758,7 +36758,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RESC1608X55X30LL15T15"
+		(property "Footprint" "PCMTester2.0 Footprints:RESC1608X50N"
 			(at 134.62 48.26 0)
 			(effects
 				(font
@@ -37177,7 +37177,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SAMTEC_QTH-040-01-L-D-DP-A"
+		(property "Footprint" "PCMTester2.0 Footprints:SAMTEC_QTH-040-01-X-D-DP-A"
 			(at 455.93 104.14 0)
 			(effects
 				(font
@@ -37503,7 +37503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 496.57 142.24 0)
 			(effects
 				(font
@@ -37751,7 +37751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 496.57 157.48 0)
 			(effects
 				(font
@@ -37998,7 +37998,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC2012X135N"
+		(property "Footprint" "PCMTester2.0 Footprints:22uF_Capacitor"
 			(at 55.88 274.32 0)
 			(effects
 				(font
@@ -38316,7 +38316,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 223.52 0)
 			(effects
 				(font
@@ -38564,7 +38564,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 496.57 160.02 0)
 			(effects
 				(font
@@ -38936,7 +38936,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 354.33 223.52 0)
 			(effects
 				(font
@@ -39248,7 +39248,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CONN HEADER 1POS .100_"
+		(property "Footprint" "PCMTester2.0 Footprints:SAMTEC_TSW-101-07-G-S (pin)"
 			(at 267.97 177.8 0)
 			(effects
 				(font
@@ -39573,7 +39573,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 182.88 0)
 			(effects
 				(font
@@ -39821,7 +39821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 190.5 0)
 			(effects
 				(font
@@ -40070,7 +40070,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RESC1608X55X30LL15T15"
+		(property "Footprint" "PCMTester2.0 Footprints:RESC1608X50N"
 			(at 116.84 29.21 0)
 			(effects
 				(font
@@ -40550,7 +40550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 354.33 220.98 0)
 			(effects
 				(font
@@ -40861,7 +40861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 496.57 149.86 0)
 			(effects
 				(font
@@ -41174,7 +41174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "HIROSE_FX11A-80P-8-SV"
+		(property "Footprint" "PCMTester2.0 Footprints:TO_BM1_footprint"
 			(at 110.49 232.41 0)
 			(effects
 				(font
@@ -41598,7 +41598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 254 0)
 			(effects
 				(font
@@ -41845,7 +41845,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC2012X135N"
+		(property "Footprint" "PCMTester2.0 Footprints:22uF_Capacitor"
 			(at 57.15 111.76 0)
 			(effects
 				(font
@@ -42164,7 +42164,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RESC1608X55X30LL15T15"
+		(property "Footprint" "PCMTester2.0 Footprints:RESC1608X50N"
 			(at 134.62 63.5 0)
 			(effects
 				(font
@@ -42582,7 +42582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 354.33 205.74 0)
 			(effects
 				(font
@@ -42830,7 +42830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 205.74 0)
 			(effects
 				(font
@@ -43079,7 +43079,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SAMTEC_QTH-040-01-L-D-DP-A"
+		(property "Footprint" "PCMTester2.0 Footprints:SAMTEC_QTH-040-01-X-D-DP-A"
 			(at 313.69 106.68 0)
 			(effects
 				(font
@@ -43406,7 +43406,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RESC1608X55X30LL15T15"
+		(property "Footprint" "PCMTester2.0 Footprints:RESC1608X50N"
 			(at 134.62 53.34 0)
 			(effects
 				(font
@@ -43824,7 +43824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 354.33 231.14 0)
 			(effects
 				(font
@@ -44134,7 +44134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 185.42 0)
 			(effects
 				(font
@@ -44382,7 +44382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 246.38 0)
 			(effects
 				(font
@@ -44630,7 +44630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 354.33 208.28 0)
 			(effects
 				(font
@@ -44878,7 +44878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 231.14 0)
 			(effects
 				(font
@@ -45126,7 +45126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 251.46 0)
 			(effects
 				(font
@@ -45436,7 +45436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 193.04 0)
 			(effects
 				(font
@@ -45685,7 +45685,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "HRS_DF12NB-60DS-0.5V(51)"
+		(property "Footprint" "PCMTester2.0 Footprints:HRS_DF12NB-60DS-0.5V_51_"
 			(at 85.09 99.06 0)
 			(effects
 				(font
@@ -46017,7 +46017,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 243.84 0)
 			(effects
 				(font
@@ -46266,7 +46266,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RESC1608X55X30LL15T15"
+		(property "Footprint" "PCMTester2.0 Footprints:RESC1608X50N"
 			(at 134.62 58.42 0)
 			(effects
 				(font
@@ -46684,7 +46684,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 497.84 106.68 0)
 			(effects
 				(font
@@ -46932,7 +46932,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 288.29 215.9 0)
 			(effects
 				(font
@@ -47242,7 +47242,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Net_Tie1"
+		(property "Footprint" ""
 			(at 354.33 228.6 0)
 			(effects
 				(font
