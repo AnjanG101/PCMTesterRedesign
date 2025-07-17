@@ -4244,7 +4244,7 @@
 	(footprint "PCMFootprints:SAMTEC_TSW-101-07-G-S (pin)"
 		(layer "F.Cu")
 		(uuid "226eba46-4879-4828-86da-d476e7967843")
-		(at 115.8675 147.23)
+		(at 84.21 84.64)
 		(property "Reference" "TP2"
 			(at 42.315 20.665 0)
 			(layer "F.SilkS")
@@ -12237,12 +12237,12 @@
 	(footprint "PCMFootprints:SAMTEC_TSW-101-07-G-S (pin)"
 		(layer "F.Cu")
 		(uuid "85881fc0-2fc1-433e-b54f-e294fb792953")
-		(at 115.8675 143.14)
+		(at 84.21 37.64)
 		(property "Reference" "TP1"
 			(at 59.18 -16.585 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "280faedc-eab8-4727-9b86-ff587403f8a7")
+			(uuid "8f8cfa26-a608-4d3e-919c-8bf3ce5db8f5")
 			(effects
 				(font
 					(size 1 1)
@@ -12254,7 +12254,7 @@
 			(at 52.475 26.955 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9a30b04b-16cd-40cf-aba3-d058116aa55c")
+			(uuid "2104c1b4-3fe1-42ed-a7c8-a615454b4c4b")
 			(effects
 				(font
 					(size 1 1)
@@ -12266,7 +12266,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b3fe16e9-7689-4702-bbaa-20a27ee5b393")
+			(uuid "b450e3c0-eb0d-4ca8-a746-4c9ef55e7e97")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12278,7 +12278,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a441a66a-c75e-419a-9bbf-d2e2bf0297be")
+			(uuid "9be9b0f7-2066-41a8-9eed-d74f4680246a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12815,12 +12815,12 @@
 	(footprint "PCMFootprints:SAMTEC_TSW-101-07-G-S (pin)"
 		(layer "F.Cu")
 		(uuid "8ae9604d-59d8-4afd-85f4-b6cad26c20cc")
-		(at 115.8675 155.41)
+		(at 84.21 140.39)
 		(property "Reference" "TP_VBRD1"
 			(at 0.905 -3.155 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "38cb3f30-ca38-44a2-af77-0654a8a6f202")
+			(uuid "a0c3cc6b-222b-4e1e-a108-29cf343cf442")
 			(effects
 				(font
 					(size 1 1)
@@ -12832,7 +12832,7 @@
 			(at 52.475 26.955 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8559c857-b076-4d61-83a0-28b49c20df8a")
+			(uuid "6d3a3903-af4f-45de-b1b2-2e2b6424c878")
 			(effects
 				(font
 					(size 1 1)
@@ -12844,7 +12844,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "834307f4-e6ce-4ae0-9ecb-9aa690e54ada")
+			(uuid "6f34bea2-371a-4cbe-9b28-36a5483b9b4c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12856,7 +12856,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8836fa57-1cb0-42ef-8c00-93e6db7fcb92")
+			(uuid "48efbf52-5843-4a75-a137-ba2437296820")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13393,12 +13393,13 @@
 	(footprint "PCMFootprints:RESC1608X50N"
 		(layer "F.Cu")
 		(uuid "8fff1348-f28f-4eea-968b-a265193728b6")
-		(at 187.56 119)
+		(at 131.28 86.62 180)
 		(descr "CRCW0603")
 		(tags "Resistor")
 		(property "Reference" "R1"
 			(at 0 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "c87e8a84-29bf-46f4-b1ef-25c8da3d5eae")
 			(effects
 				(font
@@ -13444,7 +13445,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" "0603"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13457,7 +13458,7 @@
 			)
 		)
 		(property "CURRENT" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13470,7 +13471,7 @@
 			)
 		)
 		(property "MOUNT" "Surface Mount"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13483,7 +13484,7 @@
 			)
 		)
 		(property "PINS" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13496,7 +13497,7 @@
 			)
 		)
 		(property "POWER" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13509,7 +13510,7 @@
 			)
 		)
 		(property "ROHS" "Yes"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13522,7 +13523,7 @@
 			)
 		)
 		(property "TOLERANCE" "1%"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13535,7 +13536,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "10k"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13548,7 +13549,7 @@
 			)
 		)
 		(property "VOLTAGE" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13561,7 +13562,7 @@
 			)
 		)
 		(property "NUMBER OF PINS" "2"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13574,7 +13575,7 @@
 			)
 		)
 		(property "CASE CODE (METRIC)" "1608"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13587,7 +13588,7 @@
 			)
 		)
 		(property "CASE CODE (IMPERIAL)" "0603"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13600,7 +13601,7 @@
 			)
 		)
 		(property "CONTACT PLATING" "Tin"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13613,7 +13614,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13626,7 +13627,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "155°C"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13639,7 +13640,7 @@
 			)
 		)
 		(property "RESISTANCE" "10kR"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13652,7 +13653,7 @@
 			)
 		)
 		(property "POWER RATING" "100mW"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13665,7 +13666,7 @@
 			)
 		)
 		(property "PACKAGING" "Tape and Reel"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13678,7 +13679,7 @@
 			)
 		)
 		(property "PACKAGE QUANTITY" "1"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13691,7 +13692,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "75V"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13704,7 +13705,7 @@
 			)
 		)
 		(property "COMPOSITION" "Thick Film"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13717,7 +13718,7 @@
 			)
 		)
 		(property "NUMBER OF TERMINATIONS" "2"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13730,7 +13731,7 @@
 			)
 		)
 		(property "TERMINATION" "SMD/SMT"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13743,7 +13744,7 @@
 			)
 		)
 		(property "TEMPERATURE COEFFICIENT" "100ppm/°C"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13756,7 +13757,7 @@
 			)
 		)
 		(property "MILITARY STANDARD" "Not"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13769,7 +13770,7 @@
 			)
 		)
 		(property "MAX POWER DISSIPATION" "100mW"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13782,7 +13783,7 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" "75V"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13795,7 +13796,7 @@
 			)
 		)
 		(property "FEATURES" "Automotive AEC-Q200"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13808,7 +13809,7 @@
 			)
 		)
 		(property "LENGTH" "1.6mm"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13821,7 +13822,7 @@
 			)
 		)
 		(property "HEIGHT" "0.45mm"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13834,7 +13835,7 @@
 			)
 		)
 		(property "WIDTH" "0.031inch"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13847,7 +13848,7 @@
 			)
 		)
 		(property "DEPTH" "0.8mm"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13860,7 +13861,7 @@
 			)
 		)
 		(property "RADIATION HARDENING" "No"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13873,7 +13874,7 @@
 			)
 		)
 		(property "REACH SVHC" "No SVHC"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13886,7 +13887,7 @@
 			)
 		)
 		(property "LEAD FREE" "Lead Free"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13904,24 +13905,14 @@
 		(sheetfile "PCMTester3.0.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -1.425 -0.75)
-			(end 1.425 -0.75)
+			(start 1.425 0.75)
+			(end -1.425 0.75)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "5fa7ee10-db5b-4a9b-a28c-5b3fa448f67b")
-		)
-		(fp_line
-			(start -1.425 0.75)
-			(end -1.425 -0.75)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "e9f6f850-a77a-4f91-8613-e9cd6a4ef947")
+			(uuid "e3c6dfac-69aa-4f0f-a4da-15cf99972480")
 		)
 		(fp_line
 			(start 1.425 -0.75)
@@ -13934,34 +13925,34 @@
 			(uuid "a0a0b296-f9d1-47ea-993b-b5260a2cfb82")
 		)
 		(fp_line
-			(start 1.425 0.75)
-			(end -1.425 0.75)
+			(start -1.425 0.75)
+			(end -1.425 -0.75)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e3c6dfac-69aa-4f0f-a4da-15cf99972480")
+			(uuid "e9f6f850-a77a-4f91-8613-e9cd6a4ef947")
 		)
 		(fp_line
-			(start -0.788 -0.425)
-			(end 0.788 -0.425)
+			(start -1.425 -0.75)
+			(end 1.425 -0.75)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "5fa7ee10-db5b-4a9b-a28c-5b3fa448f67b")
+		)
+		(fp_line
+			(start 0.788 0.425)
+			(end -0.788 0.425)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "9f8ea679-4420-4fb1-b827-886189a63d29")
-		)
-		(fp_line
-			(start -0.788 0.425)
-			(end -0.788 -0.425)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "edc617d3-d5ed-40ae-9b1f-7419ccb507fb")
+			(uuid "02793ce3-61be-4a5a-a760-995aeae0e262")
 		)
 		(fp_line
 			(start 0.788 -0.425)
@@ -13974,28 +13965,27 @@
 			(uuid "8637533c-b5a8-49bd-b9c3-d67635f06ab3")
 		)
 		(fp_line
-			(start 0.788 0.425)
-			(end -0.788 0.425)
+			(start -0.788 0.425)
+			(end -0.788 -0.425)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "02793ce3-61be-4a5a-a760-995aeae0e262")
+			(uuid "edc617d3-d5ed-40ae-9b1f-7419ccb507fb")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "80905ae1-f350-4348-9a7a-97dbe7e1eb84")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-				)
+		(fp_line
+			(start -0.788 -0.425)
+			(end 0.788 -0.425)
+			(stroke
+				(width 0.1)
+				(type solid)
 			)
+			(layer "F.Fab")
+			(uuid "9f8ea679-4420-4fb1-b827-886189a63d29")
 		)
 		(pad "1" smd rect
-			(at -0.75 0)
+			(at -0.75 0 180)
 			(size 0.85 1)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 1 "VDD")
@@ -14004,7 +13994,7 @@
 			(uuid "7c7ba58d-672c-4a97-9927-1a664828f5ca")
 		)
 		(pad "2" smd rect
-			(at 0.75 0)
+			(at 0.75 0 180)
 			(size 0.85 1)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 14 "/DF12_I2C_SCL")
@@ -14041,7 +14031,7 @@
 			)
 		)
 		(property "Value" "DF12 connector for HGCAL test boards for partial modules"
-			(at 2.4 4.1 90)
+			(at 2.1 -5.8 90)
 			(layer "F.Fab")
 			(uuid "19252ad2-b5ab-4789-a122-7668d0312d67")
 			(effects
@@ -17706,7 +17696,7 @@
 	(footprint "PCMFootprints:SAMTEC_TSW-101-07-G-S (pin)"
 		(layer "F.Cu")
 		(uuid "e0da3b78-f900-40ff-bdff-155c45fb4014")
-		(at 115.8675 151.32)
+		(at 84.21 93.39)
 		(property "Reference" "TP3"
 			(at 42.315 20.665 0)
 			(layer "F.SilkS")
@@ -18831,12 +18821,13 @@
 	(footprint "PCMFootprints:RESC1608X50N"
 		(layer "F.Cu")
 		(uuid "f0b883d0-a02f-4745-954c-da4081090880")
-		(at 187.56 121.55)
+		(at 131.28 84.07 180)
 		(descr "CRCW0603")
 		(tags "Resistor")
 		(property "Reference" "R2"
 			(at 0 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "fef9ff04-5c78-4bdd-9606-dde6d72a82f9")
 			(effects
 				(font
@@ -18882,7 +18873,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" "0603"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18895,7 +18886,7 @@
 			)
 		)
 		(property "CURRENT" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18908,7 +18899,7 @@
 			)
 		)
 		(property "MOUNT" "Surface Mount"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18921,7 +18912,7 @@
 			)
 		)
 		(property "PINS" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18934,7 +18925,7 @@
 			)
 		)
 		(property "POWER" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18947,7 +18938,7 @@
 			)
 		)
 		(property "ROHS" "Yes"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18960,7 +18951,7 @@
 			)
 		)
 		(property "TOLERANCE" "1%"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18973,7 +18964,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "10k"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18986,7 +18977,7 @@
 			)
 		)
 		(property "VOLTAGE" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18999,7 +18990,7 @@
 			)
 		)
 		(property "NUMBER OF PINS" "2"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19012,7 +19003,7 @@
 			)
 		)
 		(property "CASE CODE (METRIC)" "1608"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19025,7 +19016,7 @@
 			)
 		)
 		(property "CASE CODE (IMPERIAL)" "0603"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19038,7 +19029,7 @@
 			)
 		)
 		(property "CONTACT PLATING" "Tin"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19051,7 +19042,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19064,7 +19055,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "155°C"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19077,7 +19068,7 @@
 			)
 		)
 		(property "RESISTANCE" "10kR"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19090,7 +19081,7 @@
 			)
 		)
 		(property "POWER RATING" "100mW"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19103,7 +19094,7 @@
 			)
 		)
 		(property "PACKAGING" "Tape and Reel"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19116,7 +19107,7 @@
 			)
 		)
 		(property "PACKAGE QUANTITY" "1"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19129,7 +19120,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "75V"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19142,7 +19133,7 @@
 			)
 		)
 		(property "COMPOSITION" "Thick Film"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19155,7 +19146,7 @@
 			)
 		)
 		(property "NUMBER OF TERMINATIONS" "2"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19168,7 +19159,7 @@
 			)
 		)
 		(property "TERMINATION" "SMD/SMT"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19181,7 +19172,7 @@
 			)
 		)
 		(property "TEMPERATURE COEFFICIENT" "100ppm/°C"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19194,7 +19185,7 @@
 			)
 		)
 		(property "MILITARY STANDARD" "Not"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19207,7 +19198,7 @@
 			)
 		)
 		(property "MAX POWER DISSIPATION" "100mW"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19220,7 +19211,7 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" "75V"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19233,7 +19224,7 @@
 			)
 		)
 		(property "FEATURES" "Automotive AEC-Q200"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19246,7 +19237,7 @@
 			)
 		)
 		(property "LENGTH" "1.6mm"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19259,7 +19250,7 @@
 			)
 		)
 		(property "HEIGHT" "0.45mm"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19272,7 +19263,7 @@
 			)
 		)
 		(property "WIDTH" "0.031inch"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19285,7 +19276,7 @@
 			)
 		)
 		(property "DEPTH" "0.8mm"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19298,7 +19289,7 @@
 			)
 		)
 		(property "RADIATION HARDENING" "No"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19311,7 +19302,7 @@
 			)
 		)
 		(property "REACH SVHC" "No SVHC"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19324,7 +19315,7 @@
 			)
 		)
 		(property "LEAD FREE" "Lead Free"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19342,24 +19333,14 @@
 		(sheetfile "PCMTester3.0.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -1.425 -0.75)
-			(end 1.425 -0.75)
+			(start 1.425 0.75)
+			(end -1.425 0.75)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "3c9a4732-c492-43a1-b575-fe342bf3d9e9")
-		)
-		(fp_line
-			(start -1.425 0.75)
-			(end -1.425 -0.75)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "bb85c5d2-e1ce-4c9b-bf55-90a9b497779d")
+			(uuid "0dbcaa16-9fd8-43fb-8f9f-df0650299373")
 		)
 		(fp_line
 			(start 1.425 -0.75)
@@ -19372,34 +19353,34 @@
 			(uuid "00cef98f-eaf6-47f1-b107-a3fed2257778")
 		)
 		(fp_line
-			(start 1.425 0.75)
-			(end -1.425 0.75)
+			(start -1.425 0.75)
+			(end -1.425 -0.75)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "0dbcaa16-9fd8-43fb-8f9f-df0650299373")
+			(uuid "bb85c5d2-e1ce-4c9b-bf55-90a9b497779d")
 		)
 		(fp_line
-			(start -0.788 -0.425)
-			(end 0.788 -0.425)
+			(start -1.425 -0.75)
+			(end 1.425 -0.75)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "3c9a4732-c492-43a1-b575-fe342bf3d9e9")
+		)
+		(fp_line
+			(start 0.788 0.425)
+			(end -0.788 0.425)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7dc31047-b40f-4a7e-997a-1da128ff8bf3")
-		)
-		(fp_line
-			(start -0.788 0.425)
-			(end -0.788 -0.425)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "ee198d4c-b104-41cf-ad6e-4b99a428685b")
+			(uuid "d87702f4-5839-44c3-ac57-aac77c57a020")
 		)
 		(fp_line
 			(start 0.788 -0.425)
@@ -19412,28 +19393,27 @@
 			(uuid "600f4ee9-766e-44b9-98e3-c6b3c43d75e4")
 		)
 		(fp_line
-			(start 0.788 0.425)
-			(end -0.788 0.425)
+			(start -0.788 0.425)
+			(end -0.788 -0.425)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d87702f4-5839-44c3-ac57-aac77c57a020")
+			(uuid "ee198d4c-b104-41cf-ad6e-4b99a428685b")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "9f985211-7171-4558-8274-935101a22b05")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-				)
+		(fp_line
+			(start -0.788 -0.425)
+			(end 0.788 -0.425)
+			(stroke
+				(width 0.1)
+				(type solid)
 			)
+			(layer "F.Fab")
+			(uuid "7dc31047-b40f-4a7e-997a-1da128ff8bf3")
 		)
 		(pad "1" smd rect
-			(at -0.75 0)
+			(at -0.75 0 180)
 			(size 0.85 1)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 1 "VDD")
@@ -19442,7 +19422,7 @@
 			(uuid "589756cf-1fa0-446c-961a-33896098ed2f")
 		)
 		(pad "2" smd rect
-			(at 0.75 0)
+			(at 0.75 0 180)
 			(size 0.85 1)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 23 "/DF12_I2C_SDA")
