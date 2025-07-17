@@ -3385,7 +3385,7 @@
 			)
 		)
 		(instances
-			(project "Stibbons"
+			(project "PCMTester4.0"
 				(path "/6c6ce9a9-3313-4c2d-babb-172579477a56"
 					(page "4")
 				)
@@ -3488,7 +3488,7 @@
 			)
 		)
 		(instances
-			(project "Stibbons"
+			(project "PCMTester4.0"
 				(path "/6c6ce9a9-3313-4c2d-babb-172579477a56"
 					(page "2")
 				)
@@ -3671,7 +3671,7 @@
 			)
 		)
 		(instances
-			(project "Stibbons"
+			(project "PCMTester4.0"
 				(path "/6c6ce9a9-3313-4c2d-babb-172579477a56"
 					(page "3")
 				)
