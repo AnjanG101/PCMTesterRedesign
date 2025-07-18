@@ -898,16 +898,6 @@
 		)
 		(uuid "20fe2158-b548-4fb8-8eed-f249bf3dd611")
 	)
-	(bus
-		(pts
-			(xy 130.81 85.09) (xy 137.16 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2825374b-9ba4-4b3d-8d05-bfa83aa00090")
-	)
 	(wire
 		(pts
 			(xy 259.08 91.44) (xy 273.05 91.44)
@@ -927,16 +917,6 @@
 			(type default)
 		)
 		(uuid "2d635250-cd5d-428e-aa16-ebf61bc2cfec")
-	)
-	(bus
-		(pts
-			(xy 130.81 78.74) (xy 137.16 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3106bde4-94d1-46bb-8061-e926016abb8a")
 	)
 	(wire
 		(pts
@@ -1048,16 +1028,6 @@
 		)
 		(uuid "5c9f6110-a35a-4bbb-969e-e70375132b96")
 	)
-	(bus
-		(pts
-			(xy 130.81 81.28) (xy 137.16 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61f07bcb-d967-4f3d-a500-ac30f11f7a77")
-	)
 	(wire
 		(pts
 			(xy 83.82 114.3) (xy 137.16 114.3)
@@ -1100,7 +1070,7 @@
 	)
 	(bus
 		(pts
-			(xy 130.81 93.98) (xy 137.16 93.98)
+			(xy 130.81 92.71) (xy 137.16 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1167,16 +1137,6 @@
 			(type default)
 		)
 		(uuid "7e87ef3c-21b2-40b8-830f-0547c7b03cff")
-	)
-	(bus
-		(pts
-			(xy 130.81 91.44) (xy 137.16 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8293f7fb-ff29-42d4-910b-6819b8d7a765")
 	)
 	(bus
 		(pts
@@ -3264,46 +3224,6 @@
 				(hide yes)
 			)
 		)
-		(pin "D{FC}" bidirectional
-			(at 130.81 78.74 0)
-			(uuid "830ac81e-fbe4-4369-b619-d5a20608136c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "T{FC}" bidirectional
-			(at 130.81 81.28 0)
-			(uuid "45151358-0231-4a22-815b-baf2e09aa20c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "{DAQ_out}" bidirectional
-			(at 130.81 87.63 0)
-			(uuid "2916585d-302b-4c93-bdb7-55b1877fb568")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "{DAQ}" bidirectional
-			(at 130.81 85.09 0)
-			(uuid "9048078c-d230-4ae1-b9cb-fe2064cf1ea0")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "{ERR}" bidirectional
 			(at 130.81 97.79 0)
 			(uuid "01901e41-c386-4542-a935-98395b073878")
@@ -3334,26 +3254,6 @@
 				(justify left)
 			)
 		)
-		(pin "{TRIG_out}" bidirectional
-			(at 130.81 93.98 0)
-			(uuid "43e1b89a-5787-4042-bf3b-82a625c12bb3")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "{TRIG}" bidirectional
-			(at 130.81 91.44 0)
-			(uuid "091082fe-0c49-4eaa-ae56-9d7a3086f25c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "ECOND_RE_SB" bidirectional
 			(at 130.81 104.14 0)
 			(uuid "d97fb6eb-e516-4584-b6ad-a56b13755fda")
@@ -3377,6 +3277,36 @@
 		(pin "ECON_RE_HB" bidirectional
 			(at 130.81 106.68 0)
 			(uuid "d8cb01a7-c671-48cf-8ed5-1f139c55af04")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VDD" bidirectional
+			(at 130.81 81.28 0)
+			(uuid "77b437ec-d411-4f82-8f49-73a40ca99c53")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "{DF12}" bidirectional
+			(at 130.81 92.71 0)
+			(uuid "7529af64-e8b3-42e2-9033-919e73306bf9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "{FX11}" bidirectional
+			(at 130.81 87.63 0)
+			(uuid "c39ef419-ab5e-4d61-97be-3ec3b5352c2b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3530,16 +3460,6 @@
 				(hide yes)
 			)
 		)
-		(pin "D{FC}" bidirectional
-			(at 137.16 78.74 180)
-			(uuid "4852d76a-8f58-4403-aaac-9b1a03abe5d3")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "ECOND_RE_SB" bidirectional
 			(at 137.16 104.14 180)
 			(uuid "657e8bf6-980b-4ab3-8910-92915e04e626")
@@ -3600,39 +3520,9 @@
 				(justify left)
 			)
 		)
-		(pin "T{FC}" bidirectional
-			(at 137.16 81.28 180)
-			(uuid "5d6785d6-55b2-4a42-9241-ce346e9a3505")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "VDD" bidirectional
 			(at 167.64 116.84 270)
 			(uuid "e9ba48d2-d792-4d57-9650-c67e0ac16289")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "{DAQ_out}" bidirectional
-			(at 137.16 87.63 180)
-			(uuid "f26b60e4-8ee8-4e29-b7db-6f7c27be6847")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "{DAQ}" bidirectional
-			(at 137.16 85.09 180)
-			(uuid "e08f1499-ce99-49cc-a602-25e7fe963420")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3650,9 +3540,9 @@
 				(justify left)
 			)
 		)
-		(pin "{TRIG_out}" bidirectional
-			(at 137.16 93.98 180)
-			(uuid "f5b13b3b-d7d1-461e-8380-a99e10cbb792")
+		(pin "{DF12}" bidirectional
+			(at 137.16 92.71 180)
+			(uuid "4123338f-f2a3-46da-8471-3e006529c615")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3660,9 +3550,9 @@
 				(justify left)
 			)
 		)
-		(pin "{TRIG}" bidirectional
-			(at 137.16 91.44 180)
-			(uuid "54e7d9e2-6c0c-4506-a87f-28487b1db2c6")
+		(pin "{FX11}" bidirectional
+			(at 137.16 87.63 180)
+			(uuid "02014280-f1e2-47c4-8144-2db60239f4d9")
 			(effects
 				(font
 					(size 1.27 1.27)
