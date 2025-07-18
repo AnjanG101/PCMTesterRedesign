@@ -58,16 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "via_dangling|33500000|64400000|597d574f-fc0d-4c17-a8d8-3b53b76733d7|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "via_dangling|34800000|62000000|e35d140d-db07-4f2a-ad22-bd44d44b8dc4|00000000-0000-0000-0000-000000000000",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -472,7 +463,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Stibbons.kicad_pro",
+    "filename": "PCMTester4.0.kicad_pro",
     "version": 3
   },
   "net_settings": {
